@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+    <!--[if IEMobile 7 ]> <html dir="ltr" lang="en" class="no-js iem7"> <![endif]-->
+    <!--[if lt IE 7 ]> <html dir="ltr" lang="en" class="no-js ie6 oldie"> <![endif]-->
+    <!--[if IE 7 ]>    <html dir="ltr" lang="en" class="no-js ie7 oldie"> <![endif]-->
+    <!--[if IE 8 ]>    <html dir="ltr" lang="en" class="no-js ie8 oldie"> <![endif]-->
+    <!--[if (gte IE 9)|(gt IEMobile 7)|!(IEMobile)|!(IE)]><!--><html dir="ltr" lang="en" class="no-js"><!--<![endif]-->
+    <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>DTM04-2P : DEUTSCH Automotive Housings | TE Connectivity</title>
+
+    <script type="text/javascript" src="https://www.te.com/public/179acfadcee0ce5071ad60d0fb57d4017100113b9c14"  ></script><script>
+// akam-sw.js install script version 1.3.6
+"serviceWorker"in navigator&&"find"in[]&&function(){var e=new Promise(function(e){"complete"===document.readyState||!1?e():(window.addEventListener("load",function(){e()}),setTimeout(function(){"complete"!==document.readyState&&e()},1e4))}),n=window.akamServiceWorkerInvoked,r="1.3.6";if(n)aka3pmLog("akam-setup already invoked");else{window.akamServiceWorkerInvoked=!0,window.aka3pmLog=function(){window.akamServiceWorkerDebug&&console.log.apply(console,arguments)};function o(e){(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"sm.sw.s":e,"sm.sw.v":r}])}var i="/akam-sw.js",a=new Map;navigator.serviceWorker.addEventListener("message",function(e){var n,r,o=e.data;if(o.isAka3pm)if(o.command){var i=(n=o.command,(r=a.get(n))&&r.length>0?r.shift():null);i&&i(e.data.response)}else if(o.commandToClient)switch(o.commandToClient){case"enableDebug":window.akamServiceWorkerDebug||(window.akamServiceWorkerDebug=!0,aka3pmLog("Setup script debug enabled via service worker message"),v());break;case"boomerangMQ":o.payload&&(window.BOOMR_mq=window.BOOMR_mq||[]).push(o.payload)}aka3pmLog("akam-sw message: "+JSON.stringify(e.data))});var t=function(e){return new Promise(function(n){var r,o;r=e.command,o=n,a.has(r)||a.set(r,[]),a.get(r).push(o),navigator.serviceWorker.controller&&(e.isAka3pm=!0,navigator.serviceWorker.controller.postMessage(e))})},c=function(e){return t({command:"navTiming",navTiming:e})},s=null,m={},d=function(){var e=i;return s&&(e+="?othersw="+encodeURIComponent(s)),function(e,n){return new Promise(function(r,i){aka3pmLog("Registering service worker with URL: "+e),navigator.serviceWorker.register(e,n).then(function(e){aka3pmLog("ServiceWorker registration successful with scope: ",e.scope),r(e),o(1)}).catch(function(e){aka3pmLog("ServiceWorker registration failed: ",e),o(0),i(e)})})}(e,m)},g=navigator.serviceWorker.__proto__.register;if(navigator.serviceWorker.__proto__.register=function(n,r){return n.includes(i)?g.call(this,n,r):(aka3pmLog("Overriding registration of service worker for: "+n),s=new URL(n,window.location.href),m=r,navigator.serviceWorker.controller?new Promise(function(n,r){var o=navigator.serviceWorker.controller.scriptURL;if(o.includes(i)){var a=encodeURIComponent(s);o.includes(a)?(aka3pmLog("Cancelling registration as we already integrate other SW: "+s),navigator.serviceWorker.getRegistration().then(function(e){n(e)})):e.then(function(){aka3pmLog("Unregistering existing 3pm service worker"),navigator.serviceWorker.getRegistration().then(function(e){e.unregister().then(function(){return d()}).then(function(e){n(e)}).catch(function(e){r(e)})})})}else aka3pmLog("Cancelling registration as we already have akam-sw.js installed"),navigator.serviceWorker.getRegistration().then(function(e){n(e)})}):g.call(this,n,r))},navigator.serviceWorker.controller){var u=navigator.serviceWorker.controller.scriptURL;u.includes("/akam-sw.js")||u.includes("/akam-sw-preprod.js")||u.includes("/threepm-sw.js")||(aka3pmLog("Detected existing service worker. Removing and re-adding inside akam-sw.js"),s=new URL(u,window.location.href),e.then(function(){navigator.serviceWorker.getRegistration().then(function(e){m={scope:e.scope},e.unregister(),d()})}))}else e.then(function(){window.akamServiceWorkerPreprod&&(i="/akam-sw-preprod.js"),d()});if(window.performance){var w=window.performance.timing,l=w.responseEnd-w.responseStart;c(l)}e.then(function(){t({command:"pageLoad"})});var k=!1;function v(){window.akamServiceWorkerDebug&&!k&&(k=!0,aka3pmLog("Initializing debug functions at window scope"),window.aka3pmInjectSwPolicy=function(e){return t({command:"updatePolicy",policy:e})},window.aka3pmDisableInjectedPolicy=function(){return t({command:"disableInjectedPolicy"})},window.aka3pmDeleteInjectedPolicy=function(){return t({command:"deleteInjectedPolicy"})},window.aka3pmGetStateAsync=function(){return t({command:"getState"})},window.aka3pmDumpState=function(){aka3pmGetStateAsync().then(function(e){aka3pmLog(JSON.stringify(e,null,"\t"))})},window.aka3pmInjectTiming=function(e){return c(e)},window.aka3pmUpdatePolicyFromNetwork=function(){return t({command:"pullPolicyFromNetwork"})})}v()}}();</script>
+<script type="text/javascript" src="/ruxitagentjs_ICA237NVdefghijmoqrtuvx_10261230220152234.js" data-dtconfig="rid=RID_-507234083|rpid=-1109651368|domain=te.com|reportUrl=/rb_ccb92403-42aa-451e-af79-1039b3474bc6|app=3acda9043535be12|ssc=1|featureHash=ICA237NVdefghijmoqrtuvx|vcv=2|rdnt=1|uxrgce=1|bp=3|cuc=e0ganopx|mel=100000|dpvc=1|md=mdcc1=cQuantumMetricSessionID,mdcc2=cQuantumMetricUserID,mdcc3=cTECewt4,mdcc4=cTECewt5,mdcc5=cTECewt7,mdcc6=ct_uid,mdcc7=cdtCookie,mdcc8=ct_uid,mdcc9=a#pdp-productcompatible ^rb div.compatible-section ^rb div ^rb div.products-tile ^rb div:nth-child(1) ^rb div ^rb div.right-tile ^rb div.addToCart.ng-scope,mdcc10=a#pdp-similarproducts ^rb div.fp-cab-list.similar-part-fp-cab-list ^rb div.fp-cab-list-wrapper.slick-initialized.slick-slider ^rb div ^rb div ^rb div.fp-cab-product-main-tile.similar-part-main-tile.this-product-main-tile.slick-slide.slick-current.slick-active ^rb div ^rb div ^rb div ^rb div.distributor-info ^rb div:nth-child(1) ^rb a,mdcc11=a#cab-inside-wrapper ^rb ul ^rb li:nth-child(1) ^rb div.cab-buyNow,mdcc12=a#add-to-cart ^rb li:nth-child(1) ^rb a|ssv=4|lastModification=1687918927337|dtVersion=10261230220152234|tp=500,50,0,1|agentUri=/ruxitagentjs_ICA237NVdefghijmoqrtuvx_10261230220152234.js"></script><script type="text/javascript" src="/ruxitagentjs_ICA237NVdefghijmoqrtuvx_10261230220152234.js" data-dtconfig="app=3acda9043535be12|ssc=1|featureHash=ICA237NVdefghijmoqrtuvx|vcv=2|rdnt=1|uxrgce=1|bp=3|cuc=e0ganopx|mel=100000|dpvc=1|md=mdcc1=cQuantumMetricSessionID,mdcc2=cQuantumMetricUserID,mdcc3=cTECewt4,mdcc4=cTECewt5,mdcc5=cTECewt7,mdcc6=ct_uid,mdcc7=cdtCookie,mdcc8=ct_uid,mdcc9=a#pdp-productcompatible ^rb div.compatible-section ^rb div ^rb div.products-tile ^rb div:nth-child(1) ^rb div ^rb div.right-tile ^rb div.addToCart.ng-scope,mdcc10=a#pdp-similarproducts ^rb div.fp-cab-list.similar-part-fp-cab-list ^rb div.fp-cab-list-wrapper.slick-initialized.slick-slider ^rb div ^rb div ^rb div.fp-cab-product-main-tile.similar-part-main-tile.this-product-main-tile.slick-slide.slick-current.slick-active ^rb div ^rb div ^rb div ^rb div.distributor-info ^rb div:nth-child(1) ^rb a,mdcc11=a#cab-inside-wrapper ^rb ul ^rb li:nth-child(1) ^rb div.cab-buyNow,mdcc12=a#add-to-cart ^rb li:nth-child(1) ^rb a|ssv=4|lastModification=1687918927337|dtVersion=10261230220152234|tp=500,50,0,1|agentUri=/ruxitagentjs_ICA237NVdefghijmoqrtuvx_10261230220152234.js|reportUrl=/rb_ccb92403-42aa-451e-af79-1039b3474bc6|rid=RID_-507234083|rpid=-1109651368|domain=te.com"></script><script async="async"
+                    src=//consent.trustarc.com/notice?domain=te.com&c=teconsent&ostype=mobile&js=nj&noticeType=bb&text=true&language=en&gtm=1
+                    crossorigin="">
+    													
+    			</script>
+            <meta name="description" content="Get DTM04-2P DEUTSCH Automotive Housings specs, pricing, inventory availability, and more from TE Connectivity. Get a sample or request a quote." />
+
+<meta name="keywords" content="DTM04-2P,DEUTSCH,Connectors,DEUTSCH DT" />
+<meta name="twitter:card" content="summary_large_image" />
+	<meta property="og:updated_time" content="Jan 3, 2018 2:01:31 PM" />
+	
+	<meta property="og:url" content="https://www.te.com/usa-en/product-DTM04-2P.html" />
+	    <meta name="twitter:url" content= "https://www.te.com/usa-en/product-DTM04-2P.html" />
+	    <meta property="og:description" content="Get DTM04-2P DEUTSCH Automotive Housings specs, pricing, inventory availability, and more from TE Connectivity. Get a sample or request a quote."/>
+        <meta name="twitter:description" content="Get DTM04-2P DEUTSCH Automotive Housings specs, pricing, inventory availability, and more from TE Connectivity. Get a sample or request a quote."/>
+	<meta property="og:site_name" content= "TE Connectivity"/>
+	    	<meta name="twitter:site" content= "@TEConnectivity" />
+	    <meta property="og:title" content="DTM04-2P : DEUTSCH Automotive Housings"/>
+	    <meta name="twitter:title" content="DTM04-2P : DEUTSCH Automotive Housings"/>
+   <meta property="og:type" content="Product" />
+	    <meta property="og:image" content="https://www.te.com/content/dam/te-com/catalog/part/00D/TM0/42P/DTM04-2P-t1.jpg/jcr:content/renditions/product-small.png"/>
+							<meta name="twitter:image" content="https://www.te.com/content/dam/te-com/catalog/part/00D/TM0/42P/DTM04-2P-t1.jpg/jcr:content/renditions/product-small.png" />
+						<meta name="teListingTitle" content="Generic Product Detail Page" />
+<meta name="teListingThumbnail" content="/content/dam/te-com/no-image-available.jpg" />
+<meta name="teContentTypeKey" content="--N/A--" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, user-scalable=yes" />
+        <script>
+            (function() {
+                var w = window,
+                      d = document,
+                      e = d.documentElement,
+                      g = d.getElementsByTagName('body')[0],
+                      x = (w.innerWidth && e.clientWidth) ? (Math.min(w.innerWidth, e.clientWidth)) : (w.innerWidth || e.clientWidth || g.clientWidth);
+      				
+                if(x > 1439){
+                    var allMetaElements = document.getElementsByTagName("meta");
+                    for (var i=0; i<allMetaElements.length; i++) { 
+                      if (allMetaElements[i].getAttribute("name") == "viewport") { 
+                        allMetaElements[i].setAttribute('content', "width=1440");
+                        break;
+                      } 
+                    } 
+                }
+                else if(x > 719){
+                    var allMetaElements = document.getElementsByTagName("meta");
+                    for (var i=0; i<allMetaElements.length; i++) { 
+                      if (allMetaElements[i].getAttribute("name") == "viewport") { 
+                        allMetaElements[i].setAttribute('content', "width=1024");
+                        break;
+                      } 
+                    } 
+                }
+                else{
+                    try{
+        	            window.onpageshow = function(event) {
+        	                if (event.persisted) {
+        	                    window.location.reload() 
+        	                }
+        	            };
+        	        }catch(ex){}
+                }
+            })();
+        </script>
+    <meta name="msvalidate.01" content="DFB8F8BF6404DB9D4A57FEBBAFC3A5CF" />
+
+<link rel="icon" href="/_TEincludes/ver/1635/v2/images/favicon.ico" type="image/x-icon">
+            <link rel="shortcut icon" href="/_TEincludes/ver/1635/v2/images/favicon.ico">
+        <meta property="analytics:business_unit" content="Industrial Commercial Transportation" />
+    <meta property="analytics:application" content="AEM">
+    <meta property="analytics:application_source" content="te-com">
+    <meta property="analytics:page_type" content="/apps/te/templates/product/product-detail">
+		<meta property="analytics:publish_date" content="Jan 3, 2018 2:01:31 PM">
+    
+<link rel="stylesheet preload" type="text/css" href="/_TEincludes/ver/1635/v2/generated-src/css/fonts/fonts.css" as="style" />
+
+<link rel="stylesheet" type="text/css" href="/_TEincludes/ver/1635/v2/generated-src/css/product-detail.css" title="default" media="all">
+
+<link rel="stylesheet" type="text/css" href="/_TEincludes/ver/1635/v2/generated-src/css/te-global-components.css" title="default" media="all">
+ <link rel="stylesheet" type="text/css" href="/_TEincludes/ver/1635/v2/generated-src/dist/main.css" title="default" media="all">
+ 
+ <script type="text/javascript">
+(function(a,b,c,d,e,f,g){e['.ire_o']=c;e[c]=e[c]||function(){(e[c].a=e[c].a||[]).push(arguments)};f=d.createElement(b);g=d.getElementsByTagName(b)[0];f.async=1;f.src=a;g.parentNode.insertBefore(f,g);})('//d.impactradius-event.com/A1999995-e899-4833-b972-0c4891e19a8d1.js','script','ire',document,window); 
+</script><script src="//assets.adobedtm.com/de1f194adb16/2b79838b06f5/launch-b98ce4e2ccc2.min.js" async></script>
+    <script>window.launchDataLayer = window.launchDataLayer || [];</script>
+
+<script>
+        window.dataLayer = window.dataLayer || [];
+    </script>
+    
+    <script>
+                dataLayer.push({'GUA_PROP_ID':'UA-71955962-1'});
+            </script>
+            <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl+'&gtm_auth=EUkjw4e942Cn8U4xAE_Dng&gtm_preview=env-2&gtm_cookies_win=x';f.parentNode.insertBefore(j,f);
+            })(window,document,'script','dataLayer','GTM-5SRCLN6');</script>
+        <script>
+    var teV2 = window.teV2 || {};
+    teV2.ns = function() {
+        var obj = window.teV2;
+        for (var x = 0, len = arguments.length; x < len; x++) {
+            var ns = arguments[x];
+            obj[ns] = obj[ns] || {};
+            obj = obj[ns];
+        }
+        return obj;
+    };
+
+	teV2.store = {
+        storeId: "TEUSA",        
+        storeType: "M",        
+        country: "usa",
+        countryStoreMap: {"bih":{"storeType":"S","store":"TEUSA"},"hun":{"storeType":"M","store":"TESOG"},"swe":{"storeType":"M","store":"TESOG"},"col":{"storeType":"S","store":"TEUSA"},"usa":{"storeType":"M","store":"TEUSA"},"esp":{"storeType":"M","store":"TESOG"},"bel":{"storeType":"M","store":"TESOG"},"isr":{"storeType":"S","store":"TEUSA"},"fin":{"storeType":"M","store":"TESOG"},"tun":{"storeType":"S","store":"TEUSA"},"lux":{"storeType":"M","store":"TESOG"},"kor":{"storeType":"S","store":"TEUSA"},"bra":{"storeType":"S","store":"TEUSA"},"tur":{"storeType":"M","store":"TEUSA"},"fra":{"storeType":"M","store":"TESOG"},"deu":{"storeType":"M","store":"TESOG"},"egy":{"storeType":"S","store":"TEUSA"},"ita":{"storeType":"M","store":"TESOG"},"pak":{"storeType":"S","store":"TEUSA"},"sgp":{"storeType":"S","store":"TEUSA"},"zaf":{"storeType":"S","store":"TEUSA"},"dnk":{"storeType":"M","store":"TESOG"},"che":{"storeType":"M","store":"TESOG"},"nzl":{"storeType":"S","store":"TEUSA"},"chn":{"storeType":"S","store":"TEUSA"},"hrv":{"storeType":"S","store":"TEUSA"},"idn":{"storeType":"S","store":"TEUSA"},"prt":{"storeType":"M","store":"TESOG"},"vnm":{"storeType":"S","store":"TEUSA"},"cyp":{"storeType":"S","store":"TEUSA"},"aus":{"storeType":"S","store":"TEUSA"},"aut":{"storeType":"M","store":"TESOG"},"lka":{"storeType":"S","store":"TEUSA"},"hkg":{"storeType":"S","store":"TEUSA"},"mys":{"storeType":"S","store":"TEUSA"},"twn":{"storeType":"S","store":"TEUSA"},"bgr":{"storeType":"S","store":"TEUSA"},"pol":{"storeType":"M","store":"TESOG"},"cze":{"storeType":"M","store":"TESOG"},"nor":{"storeType":"M","store":"TESOG"},"can":{"storeType":"M","store":"TEUSA"},"are":{"storeType":"S","store":"TEUSA"},"arg":{"storeType":"S","store":"TEUSA"},"grc":{"storeType":"S","store":"TEUSA"},"rou":{"storeType":"M","store":"TESOG"},"ind":{"storeType":"M","store":"TEUSA"},"mar":{"storeType":"S","store":"TEUSA"},"mex":{"storeType":"M","store":"TEUSA"},"irl":{"storeType":"M","store":"TESOG"},"srb":{"storeType":"S","store":"TEUSA"},"sau":{"storeType":"S","store":"TEUSA"},"nld":{"storeType":"M","store":"TESOG"},"jpn":{"storeType":"S","store":"TEUSA"},"svk":{"storeType":"S","store":"TEUSA"},"svn":{"storeType":"S","store":"TEUSA"},"ltu":{"storeType":"S","store":"TEUSA"},"tha":{"storeType":"S","store":"TEUSA"},"phl":{"storeType":"S","store":"TEUSA"},"gbr":{"storeType":"M","store":"TEUSA"}},
+
+        resolveStore : function(){
+
+            	
+            	var isoValue =  this.parseQueryString()['iso'];
+                var countryIso =  isoValue != null ? isoValue : this.getCookie("country_info");
+                countryIso = countryIso ? countryIso : "'usa'";
+                var storeObj = this.getStore(countryIso);
+                
+                this.storeId = storeObj.storeId;
+                this.storeType = storeObj.storeType;
+                this.country = storeObj.country;
+        },
+        getStore : function(countryVal){
+            
+            var tmpStoreObj = null, tmpStoreId = "", tmpCountry = "", tmpStoreType="";
+            if(countryVal){
+                tmpStoreObj = this.countryStoreMap[countryVal] || "";  
+                if(tmpStoreObj){
+                    tmpStoreId = tmpStoreObj.store;
+                    tmpStoreType = tmpStoreObj.storeType;
+                    tmpCountry = countryVal;
+                }	
+            }
+            return {
+                storeId: tmpStoreId,
+                storeType: tmpStoreType,
+                country: tmpCountry,
+            }
+        },
+        getCookie : function (name) { 
+            var match = document.cookie.match(RegExp('(?:^|;\\s*)' + name + '=([^;]*)')); return match ? match[1] : null; 
+        },
+        parseQueryString: function() {
+            var str = window.location.search;
+            var objURL = {};
+
+            str.replace(
+                new RegExp( "([^?=&]+)(=([^&]*))?", "g" ),
+                function( $0, $1, $2, $3 ){
+                    objURL[ $1 ] = $3;
+                }
+            );
+            return objURL;
+        }
+    };
+    teV2.store.resolveStore();
+</script><link rel="canonical" href="https://www.te.com/usa-en/product-DTM04-2P.html" />
+			<link rel="alternate" href="https://www.te.com/usa-en/product-DTM04-2P.html" hreflang="en" />
+				<link rel="alternate" href="https://www.te.com/deu-de/product-DTM04-2P.html" hreflang="de" />
+				<link rel="alternate" href="https://www.te.com.cn/chn-zh/product-DTM04-2P.html" hreflang="zh" />
+				<link rel="alternate" href="https://www.te.com/jpn-ja/product-DTM04-2P.html" hreflang="ja" />
+	            <link rel="alternate" href="https://www.te.com/fr/product-DTM04-2P.html" hreflang="fr" />
+				<link rel="alternate" href="https://www.te.com/es/product-DTM04-2P.html" hreflang="es" />
+				<link rel="alternate" href="https://www.te.com/pt/product-DTM04-2P.html" hreflang="pt" />
+				<link rel="alternate" href="https://www.te.com/usa-en/product-DTM04-2P.html" hreflang="x-default" />
+	        <meta http-equiv="content-language" content="en-us">
+			<link rel="stylesheet" media="print" type="text/css" href="/_TEincludes/ver/1635/v2/generated-src/css/pdp-print.css"/>
+
+<script type="application/ld+json">
+	{
+		"@context"		:	"https://schema.org",
+		"@type"			:	"Product",
+		"manufacturer"	:	"TE Connectivity (TE)",
+		"brand"			:	{
+			"@type"         :	"Brand",
+			"name"			:	"DEUTSCH"
+		},
+		"name"			:	"REC, 2P, GRY, N",
+		"category"		:	"Automotive Housings",
+		"url"			:   "https://www.te.com/usa-en/product-DTM04-2P.html",
+		"image"			:	"https://www.te.com/content/dam/te-com/catalog/part/00D/TM0/42P/DTM04-2P-t1.jpg/jcr:content/renditions/product-details.png",
+		"description"	:	"Get DTM04-2P DEUTSCH Automotive Housings specs, pricing, inventory availability, and more from TE Connectivity. Get a sample or request a quote.",
+		"mpn"			:	"DTM04-2P",
+		"productID"     :   "DTM04-2P",    
+		"offers"        :   {
+    		"@type"         :   "Offer",
+			"availability"  :   "https://schema.org/InStock",
+			"price"     	:   "1.50",
+    		"priceCurrency" :   "USD",
+    		"priceSpecification" : {
+    			"@type"         		  : "DeliveryChargeSpecification",
+    			"appliesToDeliveryMethod" : "Free Shipping to select countries"
+         	 }
+         }
+	}
+</script>
+
+<script>(window.BOOMR_mq=window.BOOMR_mq||[]).push(["addVar",{"rua.upush":"false","rua.cpush":"false","rua.upre":"false","rua.cpre":"false","rua.uprl":"false","rua.cprl":"false","rua.cprf":"false","rua.trans":"","rua.cook":"false","rua.ims":"false","rua.ufprl":"false","rua.cfprl":"false","rua.isuxp":"false","rua.texp":"norulematch"}]);</script>
+                              <script>!function(a){var e="https://s.go-mpulse.net/boomerang/",t="addEventListener";if("False"=="True")a.BOOMR_config=a.BOOMR_config||{},a.BOOMR_config.PageParams=a.BOOMR_config.PageParams||{},a.BOOMR_config.PageParams.pci=!0,e="https://s2.go-mpulse.net/boomerang/";if(window.BOOMR_API_key="827XA-7NWZT-CGSAU-WP5SG-7KSSA",function(){function n(e){a.BOOMR_onload=e&&e.timeStamp||(new Date).getTime()}if(!a.BOOMR||!a.BOOMR.version&&!a.BOOMR.snippetExecuted){a.BOOMR=a.BOOMR||{},a.BOOMR.snippetExecuted=!0;var i,_,o,r=document.createElement("iframe");if(a[t])a[t]("load",n,!1);else if(a.attachEvent)a.attachEvent("onload",n);r.src="javascript:void(0)",r.title="",r.role="presentation",(r.frameElement||r).style.cssText="width:0;height:0;border:0;display:none;",o=document.getElementsByTagName("script")[0],o.parentNode.insertBefore(r,o);try{_=r.contentWindow.document}catch(O){i=document.domain,r.src="javascript:var d=document.open();d.domain='"+i+"';void(0);",_=r.contentWindow.document}_.open()._l=function(){var a=this.createElement("script");if(i)this.domain=i;a.id="boomr-if-as",a.src=e+"827XA-7NWZT-CGSAU-WP5SG-7KSSA",BOOMR_lstart=(new Date).getTime(),this.body.appendChild(a)},_.write("<bo"+'dy onload="document._l();">'),_.close()}}(),"".length>0)if(a&&"performance"in a&&a.performance&&"function"==typeof a.performance.setResourceTimingBufferSize)a.performance.setResourceTimingBufferSize();!function(){if(BOOMR=a.BOOMR||{},BOOMR.plugins=BOOMR.plugins||{},!BOOMR.plugins.AK){var e=""=="true"?1:0,t="",n="z5n746qxid2naze4oyqq-f-e59331a9e-clientnsv4-s.akamaihd.net",i="false"=="true"?2:1,_={"ak.v":"36","ak.cp":"715433","ak.ai":parseInt("223585",10),"ak.ol":"0","ak.cr":90,"ak.ipv":4,"ak.proto":"h2","ak.rid":"8c22b74","ak.r":38938,"ak.a2":e,"ak.m":"x","ak.n":"essl","ak.bpcip":"207.91.254.0","ak.cport":4047,"ak.gh":"23.55.170.191","ak.quicv":"","ak.tlsv":"tls1.3","ak.0rtt":"","ak.csrc":"-","ak.acc":"","ak.t":"1687975457","ak.ak":"hOBiQwZUYzCg5VSAfCLimQ==w+SaT1X+fQCCo9lv8DywPDwBr45VpRhtKkfqxtTlfVNaAy5lvvydCBHrCcCfOYTEfu1ais82ZF+Zg0AcQS2fsH/HuVWMjG0u8GjbB3VD7Puad2bkXpkfzhMc/Pwv6vOB0bK+UWfSEP+Ff4qQPsO7sR0TkErIDbt7qqhtqQtEp8uWw1fanM/mze9Yk1J6xcefBrgm1Rs1AOeb5FU/dMpIV0fKa1mmMVN+PA9AI2LkLEbM8JC0diJ283I4ZJgMaQ+18c/fA8qWIOVaLk/LfxVfmaJagWq6viyKFMQeNZne5T34xag25SvLZP+bLiirNGYYkElG7Zp7zMC32uC2434JAKcvVQf8yUV21IRyqqNFnzcCvB+zD4S0Mz3hTvhOS6rRBpf7jmLyw07mMw48lbr2hktoPxM+xOyZaK2f8fFN/fw=","ak.pv":"142","ak.dpoabenc":"","ak.tf":i};if(""!==t)_["ak.ruds"]=t;var o={i:!1,av:function(e){var t="http.initiator";if(e&&(!e[t]||"spa_hard"===e[t]))_["ak.feo"]=void 0!==a.aFeoApplied?1:0,BOOMR.addVar(_)},rv:function(){var a=["ak.bpcip","ak.cport","ak.cr","ak.csrc","ak.gh","ak.ipv","ak.m","ak.n","ak.ol","ak.proto","ak.quicv","ak.tlsv","ak.0rtt","ak.r","ak.acc","ak.t","ak.tf"];BOOMR.removeVar(a)}};BOOMR.plugins.AK={akVars:_,akDNSPreFetchDomain:n,init:function(){if(!o.i){var a=BOOMR.subscribe;a("before_beacon",o.av,null,null),a("onbeacon",o.rv,null,null),o.i=!0}return this},is_complete:function(){return!0}}}}()}(window);</script></head>
